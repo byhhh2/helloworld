@@ -7,3 +7,4 @@
 - [Ajax](https://utopian-galley-07b.notion.site/Ajax-Asynchronous-JS-and-XML-3376aa8f02f846a89d7f8eb78ddd9398)
 - [XHR(XMLHttpRequest) vs fetch](https://utopian-galley-07b.notion.site/XHR-XMLHttpRequest-vs-fetch-47602dfa97bc443bb7620ee4f751814d)
 - [콜백 함수 + generator](https://utopian-galley-07b.notion.site/3c30d8059d684efc921902b013b715a1)
+- [Promise 파헤치기](https://github.com/byhhh2/helloworld/blob/main/Javascript/%EB%B9%84%EB%8F%99%EA%B8%B0/Promise%20%ED%8C%8C%ED%97%A4%EC%B9%98%EA%B8%B0.md)
