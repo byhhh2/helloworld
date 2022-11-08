@@ -5,3 +5,4 @@
 - [컴포넌트 분리 기준?](https://github.com/woowacourse-study/2022-woowahan-bansanghwe/discussions/108)
 - [나만의 컴포넌트 작성법?](https://utopian-galley-07b.notion.site/2f092a21bb2244f295d3206767025a92)
 - [합성 컴포넌트의 렌더링 최적화](https://utopian-galley-07b.notion.site/844aedaa91934f749274a70c5a17289a)
+- [HOC](https://github.com/byhhh2/helloworld/blob/main/React/Component/HOC.md)
