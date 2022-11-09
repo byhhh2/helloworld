@@ -6,3 +6,4 @@
 - [나만의 컴포넌트 작성법?](https://utopian-galley-07b.notion.site/2f092a21bb2244f295d3206767025a92)
 - [합성 컴포넌트의 렌더링 최적화](https://utopian-galley-07b.notion.site/844aedaa91934f749274a70c5a17289a)
 - [HOC](https://github.com/byhhh2/helloworld/blob/main/React/Component/HOC.md)
+- [컴포넌트 렌더링 과정](https://github.com/byhhh2/helloworld/blob/main/React/Component/%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%20%EB%A0%8C%EB%8D%94%EB%A7%81%20%EB%8B%A8%EA%B3%84.md)
