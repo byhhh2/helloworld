@@ -8,6 +8,7 @@
 - [컴파일러, 인터프리터](https://github.com/byhhh2/helloworld/tree/main/Javascript/%EC%BB%B4%ED%8C%8C%EC%9D%BC%EB%9F%AC%2C%20%EC%9D%B8%ED%84%B0%ED%94%84%EB%A6%AC%ED%84%B0)
 - [Closure](https://github.com/byhhh2/helloworld/tree/main/Javascript/Closure)
 - [브라우저의 동시성 / Event loop](https://github.com/byhhh2/helloworld/tree/main/Javascript/Event%20loop)
+- [Event](https://github.com/byhhh2/helloworld/tree/main/Javascript/Event)
 - [Iterator / Iterable](https://github.com/byhhh2/helloworld/tree/main/Javascript/Iterator%2C%20Iterable)
 - [Module](https://github.com/byhhh2/helloworld/tree/main/Javascript/Module)
 - [Prototype](https://github.com/byhhh2/helloworld/tree/main/Javascript/Prototype)
