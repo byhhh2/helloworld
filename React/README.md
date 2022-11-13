@@ -13,6 +13,7 @@
   - [Hooks](https://github.com/byhhh2/m-react/blob/master/Hooks/Hooks.md)
   - [Storybook](https://github.com/byhhh2/m-react/blob/master/Test/Storybook/Storybook.md)
 - [전역 상태](https://github.com/byhhh2/helloworld/tree/main/React/%EC%A0%84%EC%97%AD%20%EC%83%81%ED%83%9C)
+- [렌더링](https://github.com/byhhh2/helloworld/tree/main/React/%EB%A0%8C%EB%8D%94%EB%A7%81)
 - [최적화](https://github.com/byhhh2/helloworld/tree/main/React/%EC%B5%9C%EC%A0%81%ED%99%94)
 - [리액트가 해결하려는 문제](https://github.com/byhhh2/helloworld/tree/main/React/%EB%A6%AC%EC%95%A1%ED%8A%B8%EA%B0%80%20%ED%95%B4%EA%B2%B0%ED%95%98%EB%A0%A4%EB%8A%94%20%EB%AC%B8%EC%A0%9C)
 - [이벤트](https://github.com/byhhh2/helloworld/tree/main/React/%EC%9D%B4%EB%B2%A4%ED%8A%B8)
