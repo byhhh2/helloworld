@@ -5,3 +5,4 @@
 - [속닥속닥은 UX를 어떻게 향상시켰을까요?](https://utopian-galley-07b.notion.site/UX-490ea602345943c7b47a9d01d19afdd6)
 - [SPA](https://velog.io/@movie/SPA)
 - [Web server vs WAS](https://github.com/woowacourse-study/2022-woowahan-bansanghwe/discussions/99)
+- [웹 캐시](https://github.com/byhhh2/helloworld/blob/main/Web/%EC%9B%B9%20%EC%BA%90%EC%8B%9C.md)
