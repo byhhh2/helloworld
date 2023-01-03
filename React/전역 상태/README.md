@@ -6,3 +6,4 @@
 - [Redux 관련 궁금증](https://utopian-galley-07b.notion.site/Redux-0f1b32ab48fe4a0190130871e65b682a)
 - [Context API](https://utopian-galley-07b.notion.site/Context-API-75df993051db4774b2e89ba614d69fcb)
 - [Context API의 re-render](https://utopian-galley-07b.notion.site/Context-re-render-4a287e1bf84c4f718dbf9fdaeded9fe1)
+- [Flux와 Redux](https://github.com/byhhh2/helloworld/blob/main/React/%EC%A0%84%EC%97%AD%20%EC%83%81%ED%83%9C/Flux%EC%99%80%20Redux.md)
